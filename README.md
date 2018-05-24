@@ -31,6 +31,9 @@ Having trouble with the exercises or still feeling unsure?  If you're looking to
 
 ### Practice
 
+[Edabit](https://edabit.com/explore?lang=python3): Interactive python
+programming challenges
+
 [Practice Python](http://www.practicepython.org/): 36 Python programming challenges with answers.  Exercises ranked by difficulty of 1 to 4 chili peppers.
 
 [Python Exercises](http://www.w3resource.com/python-exercises/): Lots of (usually) short exercises, organized by topic.
