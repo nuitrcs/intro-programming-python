@@ -6,8 +6,8 @@ To download exercise files, right-click on the links below, and choose Save Link
 
 On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
 
-Right-click to save: [Exercises without Answers](https://raw.githubusercontent.com/nuitrcs/pythonworkshops/master/intropython/Part_3/p3_exercises.ipynb): try these first
+Right-click to save: [Exercises without Answers](https://raw.githubusercontent.com/nuitrcs/intro-programming-python/master/Part_3/p3_exercises.ipynb): try these first
 
-Right-click to save: [Exercises WITH Answers](https://raw.githubusercontent.com/nuitrcs/pythonworkshops/master/intropython/Part_3/p3_exercises_with_answers.ipynb): you may just want to reference these online - click on the file above to preview it in your browser
+Right-click to save: [Exercises WITH Answers](https://raw.githubusercontent.com/nuitrcs/intro-programming-python/master/Part_3/p3_exercises_with_answers.ipynb): you may just want to reference these online - click on the file above to preview it in your browser
 
-Or, download all files in this directory as a *.zip file: [Download zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/pythonworkshops/tree/master/intropython/Part_3)
+Or, download all files in this directory as a *.zip file: [Download zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/intro-programming-python/tree/master/Part_3)

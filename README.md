@@ -4,12 +4,32 @@ The materials here are split into 4 parts, usually covered in separate sessions 
 
 The lecture notes are meant for reference.  The instructor may deviate from them during the workshop, and will cover topics that may not be included there.
 
-Part 1 uses Jupyter notebooks (previously called iPython notebooks).  The easiest way to install this is to use the Anaconda distribution of Python.  To get it running, see [Jupyter Notebook Beginner Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)
+[Research Computing Services](http://www.it.northwestern.edu/research/)
+
+## Downloading Files
+
+### Recommended: Entire directory
+
+You can download all of the files by clicking the green button above and choosing "Download ZIP."
+
+### Individual Files
+
+**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
+
+To download exercise/workshop files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type (or .ipynb if available), and remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
+
+
+## Exercises
+
+See the individual directories.
 
 
 ## More Help/Practice
 
-Having trouble with the exercises or still feeling unsure?  If you're looking to get a second take on the material or an alternative explanation, try these resources: 
+Having trouble with the exercises or still feeling unsure?  If you're looking to get a second take on the material or an alternative explanation, try these resources.
+
+See [Resources](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md) for a listing of general Python resources,
+tutorials, and reference materials.  Links below relate specifically to material covered in this workshop.
 
 ### Learning
 
