@@ -34,7 +34,7 @@ tutorials, and reference materials.  Links below relate specifically to material
 
 [Introduction to Python](http://introtopython.org/): a complete intro class written in Python notebooks.  Includes exercises.
 
-[Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program): Well reviewed Coursera course with a free option.  Next session starts July 31st.  Basic intro to programming course in Python.
+[Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program): Well reviewed Coursera course with a free option.  Basic intro to programming course in Python.
 
 [Software Carpentry: Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/): heavy focus on data analysis; includes some basics but also jumps in pretty quickly to pandas and other data analysis topics.  
 
