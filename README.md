@@ -1,3 +1,5 @@
+**NOTE: Materials are in the process of being updated for Summer 2018.**
+
 # Intro to Python Workshop Materials
 
 The materials here are split into 4 parts, usually covered in separate sessions during in-person workshops.  Each part has lecture notes that the instructor will work from as well as exercise files, both with and without answers (you'll learn more if you don't cheat!).  
