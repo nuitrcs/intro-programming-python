@@ -1,4 +1,4 @@
-**NOTE: Materials are in the process of being updated for Summer 2018.**
+**NOTE: Materials are in the process of being updated for Summer 2018: http://bit.ly/intro-python-2018**
 
 # Intro to Python Workshop Materials
 
