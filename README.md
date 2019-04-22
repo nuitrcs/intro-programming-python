@@ -1,4 +1,3 @@
-**NOTE: Materials are in the process of being updated for Summer 2018: http://bit.ly/intro-python-2018**
 
 # Intro to Python Workshop Materials
 
@@ -31,8 +30,6 @@ See [Resources](https://github.com/nuitrcs/pythonworkshops/blob/master/resources
 tutorials, and reference materials.  Links below relate specifically to material covered in this workshop.
 
 ### Learning
-
-[DataCamp Introduction to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science): chapters 1-3 cover material that is covered here.
 
 [Introduction to Python](http://introtopython.org/): a complete intro class written in Python notebooks.  Includes exercises.
 
